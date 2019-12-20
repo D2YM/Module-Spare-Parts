@@ -18,8 +18,12 @@ En la parte administrativa tiene una hoja de configuración, la cual permite edi
 configuracion para el añadir porductos a la lista, esto esta en cada uno de los productos:
 
 https://github.com/D2YM/Module-Spare-Parts/blob/master/screen/ajustes%20para%20repuestos.JPG
+<br>
 https://github.com/D2YM/Module-Spare-Parts/blob/master/screen/front.jpg
+<br>
 https://github.com/D2YM/Module-Spare-Parts/blob/master/screen/module_p.JPG
+<br>
 https://github.com/D2YM/Module-Spare-Parts/blob/master/screen/tempsnip.jpg
+<br>
 
 Cualquier bug o duda, lo comentan.
