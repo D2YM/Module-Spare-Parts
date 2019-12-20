@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>sparepartsproducts</name>
+    <displayName><![CDATA[Spare parts products]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[This is Module for prestashop, use for select spare parts of product]]></description>
+    <author><![CDATA[Arigato]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
