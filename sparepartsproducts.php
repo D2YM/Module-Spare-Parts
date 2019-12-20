@@ -19,7 +19,7 @@ use Symfony\Component\VarDumper\VarDumper;
         public function __construct()
         {
             $this->name = 'sparepartsproducts';
-            $this->author = 'Arigato';
+            $this->author = 'Arigato - D2YM';
             $this->version = '1.0.0';
             $this->bootstrap = true;
             parent:: __construct();
